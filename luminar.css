@@ -1,8 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 .nav-link:hover{
-    color: rgb(154, 17, 154);
+    color: #5e068a;
     text-decoration: underline;
 }
  .nav-link{
-    color: black;
+    color:black;
+ }
+ .headtop{
+    height: 35px;
+    background-color: #5e068a;
+    width: 100%;
+    color: white;
+    font-size: small;
+    padding: 5px;
+ }
+ .write{
+   
+   font-size: 60px;
+   color: #fff;
+   line-height: 64px;
+   font-weight: 700;
     
  }
+ 
