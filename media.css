@@ -1,0 +1,21 @@
+div{
+    width: 300px;
+    background-color: blue;}
+p{
+    color: yellow;
+    font-size: small;
+}
+/* } min-width,max-width,max-height,min-height */
+/* orientation- landscape and potrait */
+@media(orientation:landscape){
+    div{
+        background-color:red;
+    }
+    p{
+        color:white;
+        font-size: large;
+    }
+    span {
+        display: none;
+    }
+}
